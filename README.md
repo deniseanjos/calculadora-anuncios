@@ -1,4 +1,4 @@
-# Calculadora de alncance de anúncios online
+# Calculadora de alcance de anúncios online
 
 1ª Parte do Desafio de Programação da Academia Capgemini - Calculadora de alcance de anúncio online.
 
@@ -16,7 +16,7 @@ Baseados em dados de análise de anúncios anteriores, a agência <b>Divulga Tud
 
 ## Resolução
 
-O código foi desenvolvido na linguagem Java, utilizando o Eclipse.
+O código foi desenvolvido na linguagem Java utilizando o Eclipse como ferramenta.
 
 ## Como usar
 
@@ -28,7 +28,7 @@ $ git clone https://github.com/deniseanjos/calculadora-anuncios
 ```sh
 Exemplo: Eclipse ou IntelliJ
 ```
-3. Rode o programa e informe o valor de investimento diretamente no console.
+3. Rode o programa e informe o valor de investimento diretamente no console
 ```sh
 Exemplo: 2,00
 ```
