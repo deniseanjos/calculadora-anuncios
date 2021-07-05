@@ -2,7 +2,7 @@
 
 1ª Parte do Desafio de Programação da Academia Capgemini - Calculadora de alcance de anúncio online.
 
-## Problematica
+## Problemática
 
 Foram considerados os seguintes critérios fictícios para desenvolver a calculadora de alcance de anúncio:
 
